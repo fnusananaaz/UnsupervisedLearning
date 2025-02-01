@@ -1,5 +1,4 @@
 # Unsupervised-Learning
-- Project delivered in February 2022
 - Repository includes two files:
   - Jupyter notebook with Python code written for data analysis and model building
   - CSV file includes data imported into notebook
